@@ -1,3 +1,3 @@
 # New-circuits-for-AES-S-box
 
-We provide the two circuits and the corresponding improved versions here, which is from the artical 'New techniques for optimizing the Implementation of AES-like S-boxes'
+We provide the two circuits from the artical 'Detailed analysis of tower field arithmetic with applications to Boyar’s S-boxes'
